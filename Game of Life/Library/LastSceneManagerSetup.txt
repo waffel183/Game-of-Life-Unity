@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoL.unity
+  isLoaded: 1
+  isActive: 1
